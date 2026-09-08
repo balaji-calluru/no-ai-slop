@@ -79,6 +79,10 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 **Rhetorical setups.** "What if I told you...", "Think about it:", "Plot twist:", and self-answered "Question? Answer." pairs. Drop them and make the point.
 
+**Rhetorical-question headings.** A heading that asks instead of tells: "But at what cost?", "So what does this mean?", "Why does this matter?", "Where do we go from here?" A heading is a signpost, so make it carry the section's answer. "But at what cost?" becomes "Render time is eating the writing time." This applies to titles and subheads as well as section headers. Keep a question heading only when the section genuinely leaves the question open, or when the question is the writer's own recognizable aside.
+
+**Engagement bait.** Cut hollow calls to action bolted onto the end: "What do you think?", "Drop your thoughts below," "Let me know in the comments," "Agree or disagree?", "Follow for more," "Save this for later," "Comment X if you want the template." They ask the reader for attention without giving them anything to answer. Delete them and end on the last concrete point. If the writer wants replies, replace the bait with one specific question about the subject that only a reader with real experience could answer, or with a plain next action.
+
 **Fake-profound kickers.** Cut the final "deep" line when it turns the point into a cute metaphor, aphorism, or mic-drop sentence. Do not rewrite it into a better metaphor. Do not preserve the rhythm. Delete it, then end on the clearest concrete sentence already in the draft. If the ending needs more closure, add a plain takeaway or next action.
 
 **Summary-recap endings.** "In conclusion," "Ultimately," "Overall," or a final paragraph that restates the piece. The reader was just there. End on the last concrete point, takeaway, or next action instead.
